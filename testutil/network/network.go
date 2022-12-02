@@ -25,9 +25,9 @@ import (
 	genutiltypes "github.com/cosmos/cosmos-sdk/x/genutil/types"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	ccvconsumertypes "github.com/cosmos/interchain-security/x/ccv/consumer/types"
-	"github.com/aalahyane95/imperator/app"
-	"github.com/aalahyane95/imperator/cmd"
-	"github.com/aalahyane95/imperator/testutil"
+	"github.com/imperator-co/imperator-core/app"
+	"github.com/imperator-co/imperator-core/cmd"
+	"github.com/imperator-co/imperator-core/testutil"
 	types1 "github.com/tendermint/tendermint/abci/types"
 	tmtypes "github.com/tendermint/tendermint/types"
 )

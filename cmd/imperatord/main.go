@@ -5,8 +5,8 @@ import (
 
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
-	"github.com/aalahyane95/imperator/app"
-	"github.com/aalahyane95/imperator/cmd"
+	"github.com/imperator-co/imperator-core/app"
+	"github.com/imperator-co/imperator-core/cmd"
 )
 
 func main() {

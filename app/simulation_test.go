@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/aalahyane95/imperator/app"
-	"github.com/aalahyane95/imperator/cmd"
+	"github.com/imperator-co/imperator-core/app"
+	"github.com/imperator-co/imperator-core/cmd"
 
 	"github.com/cosmos/cosmos-sdk/baseapp"
 	"github.com/cosmos/cosmos-sdk/codec"

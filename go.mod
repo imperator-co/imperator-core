@@ -1,4 +1,4 @@
-module github.com/aalahyane95/imperator
+module github.com/imperator-co/imperator-core
 
 go 1.18
 
